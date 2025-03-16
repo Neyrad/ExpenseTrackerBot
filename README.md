@@ -10,8 +10,9 @@ ExpenseTrackerBot is a Java-based bot that helps users track their expenses effi
 
 ## 🛠 Technologies
 - Java
-- Docker
+- Spring Boot
 - PostgreSQL
+- Docker
 
 ## 📦 Installation
 1. **Clone the repository**
